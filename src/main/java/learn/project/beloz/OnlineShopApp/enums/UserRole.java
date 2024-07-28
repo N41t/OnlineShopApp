@@ -1,4 +1,4 @@
-package learn.project.beloz.OnlineShopApp.model;
+package learn.project.beloz.OnlineShopApp.enums;
 
 public enum UserRole {
     CUSTOMER,
